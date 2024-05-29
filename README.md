@@ -1,6 +1,8 @@
 # Lab8-Starter
 Name: Slater Mutunga
 
+GitHub Pages Url: https://slatermutunga.github.io/Lab8-Starter/
+
 How are graceful degradation and service workers related?
 Graceful degradtion and service workers are related as they are both used to enhance the user experience. Graceful degradation
 makes sure that the site is usuable on all browsers, and service workers allow websites help with faster load times and offline
